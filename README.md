@@ -1,5 +1,4 @@
 <img width="1280" alt="cover" src="cover.jpg">
-<br>
 
 ## 👋 **Short intro**
 
@@ -23,6 +22,7 @@
 ## 🛠️ **Projects**
 
 - [exchange-system](https://github.com/superj80820/system-design?tab=readme-ov-file#exchange-gitbitex)
+
   ![](https://raw.githubusercontent.com/superj80820/system-design/master/doc/exchange-arch.png)
 
 ## 🏀 **Get in touch**
