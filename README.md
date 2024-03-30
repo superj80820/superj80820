@@ -2,22 +2,22 @@
 
 ## 👋 **Short intro**
 
-- 📚 Programming:
+### 📚 Programming
 
-  - Golang
-  - Node.js, JavaScript, Python
+- Golang
+- Node.js, JavaScript, Python
 
-- 🔧 Backend:
+### 🔧 Backend
 
-  - Kubernetes, Docker, Microservices
-  - RESTful API, Websocket, GRPC
-  - ELK, Grafana, Prometheus
+- Kubernetes, Docker, Microservices
+- RESTful API, Websocket, GRPC
+- ELK, Grafana, Prometheus
 
-- 🎮 DB:
+### 🎮 DB
 
-  - MySQL, PostgreSQL
-  - Kafka, MongoDB, AWS DynamoDB, Redis
-  - AWS S3
+- MySQL, PostgreSQL
+- Kafka, MongoDB, AWS DynamoDB, Redis
+- AWS S3
 
 ## 🛠️ **Projects**
 
