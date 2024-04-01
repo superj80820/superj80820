@@ -1,5 +1,3 @@
-<img width="1280" alt="cover" src="cover.jpg">
-
 ## 👋 **Short intro**
 
 ### 📚 Programming
