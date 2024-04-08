@@ -28,7 +28,7 @@
 ## 🧠 **Articles**
 
 * [Kubernetes, Clean Architecture](https://ithelp.ithome.com.tw/users/20122925/ironman/3537)
-* [Golang Design Pattern](https://ithelp.ithome.com.tw/users/20122925/ironman/3537)
+* [Golang Design Pattern](https://ithelp.ithome.com.tw/users/20122925/ironman/4685)
 
 ## 🏀 **Get in touch**
 
