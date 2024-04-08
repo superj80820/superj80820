@@ -20,7 +20,7 @@
 
 ### 🏓 MQ
 
-- Kafka
+- Kafka, RabbitMQ
 
 ## 🛠️ **Projects**
 
