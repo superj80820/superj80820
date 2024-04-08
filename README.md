@@ -10,11 +10,12 @@
 - Kubernetes, Docker, Microservices
 - RESTful API, Websocket, GRPC
 - ELK, Grafana, Prometheus
+- Kafka
 
 ### 🎮 DB
 
 - MySQL, PostgreSQL
-- Kafka, MongoDB, AWS DynamoDB, Redis
+- MongoDB, AWS DynamoDB, Redis
 - AWS S3
 
 ## 🛠️ **Projects**
