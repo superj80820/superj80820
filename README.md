@@ -25,5 +25,5 @@
 
 ## 🏀 **Get in touch**
 
-- [Blog](https://blog.messfar.com/)
+- [Blog](https://blog.messfar.com)
 - [Medium](https://medium.com/髒桶子)
