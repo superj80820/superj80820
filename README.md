@@ -18,7 +18,7 @@
 - MongoDB, AWS DynamoDB, Redis
 - AWS S3
 
-### 🏓 MQ
+### 🔌 MQ
 
 - Kafka, RabbitMQ
 
