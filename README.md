@@ -38,5 +38,5 @@
 ## 🏀 **Get in touch**
 
 - [Blog](https://blog.messfar.com)
-- [Medium](https://medium.com/髒桶子)
+- [Medium](https://medium.com/@superj80820)
 - [Linkedin](https://www.linkedin.com/in/yorklin)
